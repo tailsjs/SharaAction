@@ -104,8 +104,8 @@
 ```
 
 ## Полезные ссылки
-* [Авторег смешариков](https://tailsjs.fun/api/shara/register)
-* [Авторег смешариков, но в браузере (Нужно расширение)](https://tailsjs.fun/sharareg/)
+* [Авторег смешариков](https://tailsjs.space/api/shara/register)
+* [Авторег смешариков, но в браузере (Нужно расширение)](https://tailsjs.space/sharareg/)
 * [Блог автора](https://t.me/tjsblog)
 * [Связь с автором](https://t.me/tailsjs)
 * [Очень круглая игра](https://shararam.ru)
