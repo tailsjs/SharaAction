@@ -5,7 +5,7 @@
 1. Установите NodeJS
 2. Скачайте/клонируйте репозиторий
 3. Пропишите `npm i`
-4. Введите лог. данные в `index.js` в переменной `LOG_DATA` (как вариант, можно сгенерировать их [тут](https://tailsjs.fun/api/shara/register))
+4. Введите лог. данные в `index.js` в переменной `LOG_DATA` (как вариант, можно сгенерировать их [тут](https://tailsjs.space/api/shara/register))
 5. `node index`
 ## Пример успешной работы
 ```xml
@@ -104,8 +104,8 @@
 ```
 
 ## Полезные ссылки
-* [Авторег смешариков](https://tailsjs.fun/api/shara/register)
-* [Авторег смешариков, но в браузере (Нужно расширение)](https://tailsjs.fun/sharareg/)
+* [Авторег смешариков](https://tailsjs.space/api/shara/register)
+* [Авторег смешариков, но в браузере (Нужно расширение)](https://tailsjs.space/sharareg/)
 * [Блог автора](https://t.me/tjsblog)
 * [Связь с автором](https://t.me/tailsjs)
 * [Очень круглая игра](https://shararam.ru)
